@@ -10,7 +10,7 @@
 
    > <img src="Final Out/Foley Project 02 Folder Structure.png" alt="Folder Structure" style="float: left; margin-right: 10px;" />
 
-* <I>Sound Source : https://freesound.org/ </i>
+* <i>Sound Source : https://freesound.org/ </i>
 
 -----
 
