@@ -11,3 +11,9 @@
    > <img src="Final Out/Foley Project 02 Folder Structure.png" alt="Folder Structure" style="float: left; margin-right: 10px;" />
 
 * <I>Sound Source : https://freesound.org/ </i>
+
+-----
+
+* You can view Final out using this URL 
+
+   > URL : https://drive.google.com/file/d/1mTpUakkPI8Nbzl28tXT0qLX6m_w4eJO6/view?usp=sharing
